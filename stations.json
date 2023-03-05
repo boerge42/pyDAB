@@ -1,0 +1,1917 @@
+{"content": "FullStationScan",
+"FrequencyRegion": "Unknown",
+"Location": {
+"StreetNo": "",
+"Street": "",
+"PostalCode": "",
+"City": "",
+"Country": "",
+"Floor": "",
+"gps_latitude": "",
+"gps_longitude": ""
+},
+"ensembleList": [
+{
+"EnsembleNo": 0,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 29,
+"snr": 0,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 174928,
+"tune_index": 0,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 1,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 23,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 176640,
+"tune_index": 1,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 2,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 1,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 1,
+"valid": 1,
+"rssi": 63,
+"snr": 246,
+"FIC_quality": 100,
+"cnr": 21,
+"FIB_error_count": 0,
+"tune_freq": 178352,
+"tune_index": 2,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 10
+}
+,
+"DigitalServiceList": {
+"ServiceListVersion": 61,
+"NumberServices": 18,
+"ServiceList": [
+{
+"ServiceNo": 0,
+"ServId": 4109,
+"AudioOrDataFlag": 0,
+"ServRef": 13,
+"CountryID": 1,
+"ProgramType": 0,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "Schwarzwaldradio",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 7,
+"TMID": 0,
+"SubChId": 7,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 1,
+"ServId": 6725,
+"AudioOrDataFlag": 0,
+"ServRef": 2629,
+"CountryID": 1,
+"ProgramType": 10,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "ENERGY          ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 4,
+"TMID": 0,
+"SubChId": 4,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 2,
+"ServId": 4291,
+"AudioOrDataFlag": 0,
+"ServRef": 195,
+"CountryID": 1,
+"ProgramType": 15,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "SCHLAGERPARADIES",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 20,
+"TMID": 0,
+"SubChId": 20,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 3,
+"ServId": 6138,
+"AudioOrDataFlag": 0,
+"ServRef": 2042,
+"CountryID": 1,
+"ProgramType": 10,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "Absolut relax   ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 3,
+"TMID": 0,
+"SubChId": 3,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 4,
+"ServId": 5597,
+"AudioOrDataFlag": 0,
+"ServRef": 1501,
+"CountryID": 1,
+"ProgramType": 11,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "RADIO BOB!      ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 22,
+"TMID": 0,
+"SubChId": 22,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 5,
+"ServId": 3771728464,
+"AudioOrDataFlag": 1,
+"ServRef": 592,
+"CountryID": 13,
+"ECC": 224,
+"ProgramType": 0,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "DRadio Daten    ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 49153,
+"TMID": 3,
+"SCId": 1,
+"DGFlag": 0,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 5,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 6,
+"ServId": 3771797692,
+"AudioOrDataFlag": 1,
+"ServRef": 69820,
+"CountryID": 13,
+"ECC": 224,
+"ProgramType": 0,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "EPG Deutschland ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 49186,
+"TMID": 3,
+"SCId": 34,
+"DGFlag": 0,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 60,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 7,
+"ServId": 3771732156,
+"AudioOrDataFlag": 1,
+"ServRef": 4284,
+"CountryID": 13,
+"ECC": 224,
+"ProgramType": 0,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "TPEG            ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 49187,
+"TMID": 3,
+"SCId": 35,
+"DGFlag": 0,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 5,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 8,
+"ServId": 3771928764,
+"AudioOrDataFlag": 1,
+"ServRef": 200892,
+"CountryID": 13,
+"ECC": 224,
+"ProgramType": 0,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "TPEG_MM         ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 49185,
+"TMID": 3,
+"SCId": 33,
+"DGFlag": 0,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 5,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 9,
+"ServId": 3771863228,
+"AudioOrDataFlag": 1,
+"ServRef": 135356,
+"CountryID": 13,
+"ECC": 224,
+"ProgramType": 0,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "PPP-RTK-AdV     ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 49184,
+"TMID": 3,
+"SCId": 32,
+"DGFlag": 0,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 5,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 10,
+"ServId": 55131,
+"AudioOrDataFlag": 0,
+"ServRef": 1883,
+"CountryID": 13,
+"ProgramType": 13,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "KLASSIK RADIO   ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 6,
+"TMID": 0,
+"SubChId": 6,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 11,
+"ServId": 5596,
+"AudioOrDataFlag": 0,
+"ServRef": 1500,
+"CountryID": 1,
+"ProgramType": 10,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "sunshine live   ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 21,
+"TMID": 0,
+"SubChId": 21,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 12,
+"ServId": 53276,
+"AudioOrDataFlag": 0,
+"ServRef": 28,
+"CountryID": 13,
+"ProgramType": 20,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "radio horeb     ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 5,
+"TMID": 0,
+"SubChId": 5,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 13,
+"ServId": 6756,
+"AudioOrDataFlag": 0,
+"ServRef": 2660,
+"CountryID": 1,
+"ProgramType": 20,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "ERF Plus        ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 2,
+"TMID": 0,
+"SubChId": 2,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 14,
+"ServId": 53776,
+"AudioOrDataFlag": 0,
+"ServRef": 528,
+"CountryID": 13,
+"ProgramType": 3,
+"LinkingInfo": 0,
+"NumberComponents": 2,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "Dlf             ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 10,
+"TMID": 0,
+"SubChId": 10,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+},{
+"ComponentNo": 1,
+"comp_ID": 49153,
+"TMID": 3,
+"SCId": 1,
+"DGFlag": 0,
+"CA_flag": 0,
+"ps": 0,
+"ASCTyDSCTy": 5,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 15,
+"ServId": 53792,
+"AudioOrDataFlag": 0,
+"ServRef": 544,
+"CountryID": 13,
+"ProgramType": 7,
+"LinkingInfo": 0,
+"NumberComponents": 2,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "Dlf Kultur      ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 11,
+"TMID": 0,
+"SubChId": 11,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+},{
+"ComponentNo": 1,
+"comp_ID": 49153,
+"TMID": 3,
+"SCId": 1,
+"DGFlag": 0,
+"CA_flag": 0,
+"ps": 0,
+"ASCTyDSCTy": 5,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 16,
+"ServId": 53808,
+"AudioOrDataFlag": 0,
+"ServRef": 560,
+"CountryID": 13,
+"ProgramType": 2,
+"LinkingInfo": 0,
+"NumberComponents": 2,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "Dlf Nova        ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 12,
+"TMID": 0,
+"SubChId": 12,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+},{
+"ComponentNo": 1,
+"comp_ID": 49153,
+"TMID": 3,
+"SCId": 1,
+"DGFlag": 0,
+"CA_flag": 0,
+"ps": 0,
+"ASCTyDSCTy": 5,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 17,
+"ServId": 53824,
+"AudioOrDataFlag": 0,
+"ServRef": 576,
+"CountryID": 13,
+"ProgramType": 3,
+"LinkingInfo": 0,
+"NumberComponents": 2,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "DRadio DokDeb   ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 13,
+"TMID": 0,
+"SubChId": 13,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 0
+},{
+"ComponentNo": 1,
+"comp_ID": 49153,
+"TMID": 3,
+"SCId": 1,
+"DGFlag": 0,
+"CA_flag": 0,
+"ps": 0,
+"ASCTyDSCTy": 5,
+"muA_info_valid": 1
+}]
+}]
+}
+,
+"ensembleTime": {
+"year": 2023,
+"month": 3,
+"day": 3,
+"hour": 18,
+"minute": 16,
+"second": 13
+}
+}
+,{
+"EnsembleNo": 3,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 26,
+"snr": 0,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 180064,
+"tune_index": 3,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 4,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 21,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 181936,
+"tune_index": 4,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 5,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 23,
+"snr": 0,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 183648,
+"tune_index": 5,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 6
+}
+}
+,{
+"EnsembleNo": 6,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 21,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 185360,
+"tune_index": 6,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 7,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 22,
+"snr": 0,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 187072,
+"tune_index": 7,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 6
+}
+}
+,{
+"EnsembleNo": 8,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 20,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 188928,
+"tune_index": 8,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 9,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 20,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 190640,
+"tune_index": 9,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 10,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 32,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 192352,
+"tune_index": 10,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 11,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 28,
+"snr": 0,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 194064,
+"tune_index": 11,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 6
+}
+}
+,{
+"EnsembleNo": 12,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 20,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 195936,
+"tune_index": 12,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 13,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 19,
+"snr": 0,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 197648,
+"tune_index": 13,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 6
+}
+}
+,{
+"EnsembleNo": 14,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 28,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 199360,
+"tune_index": 14,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 15,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 19,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 201072,
+"tune_index": 15,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 16,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 23,
+"snr": 0,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 202928,
+"tune_index": 16,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 17,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 23,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 204640,
+"tune_index": 17,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 18,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 20,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 206352,
+"tune_index": 18,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 19,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 20,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 208064,
+"tune_index": 19,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 20,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 22,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 209936,
+"tune_index": 20,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 6
+}
+}
+,{
+"EnsembleNo": 21,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 26,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 210096,
+"tune_index": 21,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 22,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 1,
+"acqINT": 1,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 1,
+"acq": 1,
+"valid": 1,
+"rssi": 45,
+"snr": 246,
+"FIC_quality": 33,
+"cnr": 14,
+"FIB_error_count": 12,
+"tune_freq": 211648,
+"tune_index": 22,
+"fft_offset": 255,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 8
+}
+,
+"DigitalServiceList": {
+"ServiceListVersion": 109,
+"NumberServices": 15,
+"ServiceList": [
+{
+"ServiceNo": 0,
+"ServId": 3771732296,
+"AudioOrDataFlag": 1,
+"ServRef": 4424,
+"CountryID": 13,
+"ECC": 224,
+"ProgramType": 0,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "rbb TPEG        ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 49152,
+"TMID": 3,
+"SCId": 0,
+"DGFlag": 0,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 5,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 1,
+"ServId": 3771797832,
+"AudioOrDataFlag": 1,
+"ServRef": 69960,
+"CountryID": 13,
+"ECC": 224,
+"ProgramType": 0,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "rbb EPG         ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 49153,
+"TMID": 3,
+"SCId": 1,
+"DGFlag": 0,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 60,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 2,
+"ServId": 54577,
+"AudioOrDataFlag": 0,
+"ServRef": 1329,
+"CountryID": 13,
+"ProgramType": 10,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "Antenne CB      ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 4,
+"TMID": 0,
+"SubChId": 4,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 3,
+"ServId": 54069,
+"AudioOrDataFlag": 0,
+"ServRef": 821,
+"CountryID": 13,
+"ProgramType": 3,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "rbb24 Inforadio ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 8,
+"TMID": 0,
+"SubChId": 8,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 4,
+"ServId": 54321,
+"AudioOrDataFlag": 0,
+"ServRef": 1073,
+"CountryID": 13,
+"ProgramType": 10,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "Antenne P       ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 0,
+"TMID": 0,
+"SubChId": 0,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 5,
+"ServId": 54051,
+"AudioOrDataFlag": 0,
+"ServRef": 803,
+"CountryID": 13,
+"ProgramType": 7,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "rbbKultur       ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 5,
+"TMID": 0,
+"SubChId": 5,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 6,
+"ServId": 54066,
+"AudioOrDataFlag": 0,
+"ServRef": 818,
+"CountryID": 13,
+"ProgramType": 10,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "radio1          ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 1,
+"TMID": 0,
+"SubChId": 1,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 7,
+"ServId": 54833,
+"AudioOrDataFlag": 0,
+"ServRef": 1585,
+"CountryID": 13,
+"ProgramType": 10,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "Antenne FFO     ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 2,
+"TMID": 0,
+"SubChId": 2,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 8,
+"ServId": 54067,
+"AudioOrDataFlag": 0,
+"ServRef": 819,
+"CountryID": 13,
+"ProgramType": 10,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "Fritz           ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 7,
+"TMID": 0,
+"SubChId": 7,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 9,
+"ServId": 54049,
+"AudioOrDataFlag": 0,
+"ServRef": 801,
+"CountryID": 13,
+"ProgramType": 10,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "rbb 88.8        ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 6,
+"TMID": 0,
+"SubChId": 6,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 10,
+"ServId": 55089,
+"AudioOrDataFlag": 0,
+"ServRef": 1841,
+"CountryID": 13,
+"ProgramType": 10,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "Antenne PZL     ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 14,
+"TMID": 0,
+"SubChId": 14,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 11,
+"ServId": 55345,
+"AudioOrDataFlag": 0,
+"ServRef": 2097,
+"CountryID": 13,
+"ProgramType": 10,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "Antenne PBG     ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 12,
+"TMID": 0,
+"SubChId": 12,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 12,
+"ServId": 54422,
+"AudioOrDataFlag": 0,
+"ServRef": 1174,
+"CountryID": 13,
+"ProgramType": 9,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "COSMO           ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 13,
+"TMID": 0,
+"SubChId": 13,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 13,
+"ServId": 54834,
+"AudioOrDataFlag": 0,
+"ServRef": 1586,
+"CountryID": 13,
+"ProgramType": 10,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "radio1 FFO      ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 10,
+"TMID": 0,
+"SubChId": 10,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+}]
+},{
+"ServiceNo": 14,
+"ServId": 54578,
+"AudioOrDataFlag": 0,
+"ServRef": 1330,
+"CountryID": 13,
+"ProgramType": 10,
+"LinkingInfo": 0,
+"NumberComponents": 1,
+"CAId": 0,
+"local": 0,
+"SICharset": 0,
+"Label": "radio1 CB       ",
+"ComponentList": [
+{
+"ComponentNo": 0,
+"comp_ID": 9,
+"TMID": 0,
+"SubChId": 9,
+"CA_flag": 0,
+"ps": 1,
+"ASCTyDSCTy": 63,
+"muA_info_valid": 1
+}]
+}]
+}
+,
+"ensembleTime": {
+"year": 2023,
+"month": 3,
+"day": 3,
+"hour": 18,
+"minute": 16,
+"second": 23
+}
+}
+,{
+"EnsembleNo": 23,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 1,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 1,
+"acq": 0,
+"valid": 0,
+"rssi": 22,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 213360,
+"tune_index": 23,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 24,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 23,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 215072,
+"tune_index": 24,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 25,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 36,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 216928,
+"tune_index": 25,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 26,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 35,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 217088,
+"tune_index": 26,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 27,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 22,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 218640,
+"tune_index": 27,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 28,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 30,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 220352,
+"tune_index": 28,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 29,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 21,
+"snr": 0,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 222064,
+"tune_index": 29,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 30,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 20,
+"snr": 0,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 223936,
+"tune_index": 30,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 31,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 20,
+"snr": 0,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 224096,
+"tune_index": 31,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 32,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 24,
+"snr": 0,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 225648,
+"tune_index": 32,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 33,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 21,
+"snr": 0,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 227360,
+"tune_index": 33,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 34,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 25,
+"snr": 0,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 229072,
+"tune_index": 34,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 6
+}
+}
+,{
+"EnsembleNo": 35,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 22,
+"snr": 0,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 230784,
+"tune_index": 35,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 36,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 22,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 232496,
+"tune_index": 36,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 37,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 23,
+"snr": 0,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 234208,
+"tune_index": 37,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 38,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 22,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 235776,
+"tune_index": 38,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 39,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 22,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 237488,
+"tune_index": 39,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+,{
+"EnsembleNo": 40,
+"DigradStatus": {
+"hardmuteINT": 0,
+"FICerrINT": 0,
+"acqINT": 0,
+"rssihINT": 0,
+"rssilINT": 0,
+"hardmute": 0,
+"FICerr": 0,
+"acq": 0,
+"valid": 0,
+"rssi": 26,
+"snr": 246,
+"FIC_quality": 0,
+"cnr": 0,
+"FIB_error_count": 0,
+"tune_freq": 239200,
+"tune_index": 40,
+"fft_offset": 0,
+"readAntCap": 1,
+"cu_level": 0,
+"fast_dect": 0
+}
+}
+]}
